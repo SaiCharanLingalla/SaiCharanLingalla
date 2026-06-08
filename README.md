@@ -33,16 +33,51 @@ Graduation Year: **2025**
 ### 1. Telecom Customer Churn Prediction Using Machine Learning
 https://github.com/SaiCharanLingalla/Telecom-Customer-Churn-Prediction-Using-ML/blob/e95d577ed025d0aec5bf6efe8f74cf17e8751ede/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.ipynb
 
-* Developed a machine learning model to predict customer churn.
-* Performed data preprocessing, feature engineering, and model evaluation.
-* Applied classification algorithms to identify customers likely to leave the service.
+🎯 Objective
+
+To predict whether a telecom customer is likely to leave the service, helping companies improve customer retention strategies.
+
+🛠️ Tools & Technologies
+Python,Pandas,NumPy,Scikit-learn,Matplotlib,Jupyter Notebook
+⚙️ Process
+* Collected and explored customer data.
+* Performed data cleaning and preprocessing.
+* Encoded categorical variables and handled missing values.
+* Split the dataset into training and testing sets.
+* Built and evaluated classification models.
+* Compared model performance using evaluation metrics.
+📊 Insights
+* Customer tenure and contract type significantly influenced churn.
+* Customers with month-to-month contracts showed higher churn rates.
+* Certain service-related features strongly impacted customer retention.
+✅ Result
+* Successfully developed a machine learning model for churn prediction.
+* Identified key factors contributing to customer attrition.
+* Provided insights that can support customer retention decisions.
 
 ### 2. Titanic Dataset EDA Analysis
 https://github.com/SaiCharanLingalla/Titanic-Dataset-EDA-Analysis/blob/e6753fd493b4c9d31c905dcb216ff90b4dd0ab82/Titanic%20Dataset%20EDA%20Analysis.ipynb
 
-* Conducted Exploratory Data Analysis (EDA) on the Titanic dataset.
-* Analyzed passenger demographics, survival rates, and key influencing factors.
-* Created visualizations and extracted actionable insights from the data.
+🎯 Objective
+
+To analyze the Titanic dataset and identify factors that influenced passenger survival.
+
+🛠️ Tools & Technologies
+Python,Pandas,NumPy,Matplotlib,Seaborn
+⚙️ Process
+* Imported and explored the dataset.
+* Cleaned missing and inconsistent data.
+* Performed statistical analysis.
+* Created visualizations to understand patterns and relationships.
+* Analyzed survival rates across different passenger groups.
+📊 Insights
+* Female passengers had a higher survival rate than male passengers.
+* First-class passengers were more likely to survive.
+* Age and passenger class played important roles in survival outcomes.
+✅ Result
+* Successfully completed exploratory data analysis.
+* Discovered key trends affecting passenger survival.
+* Generated visual insights that improved understanding of the dataset.
 
 ## 🎯 Career Objectives
 

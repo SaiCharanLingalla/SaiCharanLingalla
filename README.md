@@ -38,6 +38,7 @@ https://github.com/SaiCharanLingalla/Telecom-Customer-Churn-Prediction-Using-ML/
 * Applied classification algorithms to identify customers likely to leave the service.
 
 ### 2. Titanic Dataset EDA Analysis
+https://github.com/SaiCharanLingalla/Titanic-Dataset-EDA-Analysis/blob/e6753fd493b4c9d31c905dcb216ff90b4dd0ab82/Titanic%20Dataset%20EDA%20Analysis.ipynb
 
 * Conducted Exploratory Data Analysis (EDA) on the Titanic dataset.
 * Analyzed passenger demographics, survival rates, and key influencing factors.
@@ -54,6 +55,7 @@ https://github.com/SaiCharanLingalla/Telecom-Customer-Churn-Prediction-Using-ML/
 
 * LinkedIn: www.linkedin.com/in/saicharan-lingalla-685a392b1
 * GitHub: https://github.com/SaiCharanLingalla
+* Gmail : lingallasaicharan.273@gmail.com
 
 ## ⚡ Fun Fact
 

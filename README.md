@@ -30,7 +30,7 @@ Graduation Year: **2025**
 
 ## 📂 Projects
 
-### 1. Telecom Customer Churn Prediction Using Machine Learning
+### 1. Telecom Customer Churn Prediction Using Machine Learning.ipynb
 
 * Developed a machine learning model to predict customer churn.
 * Performed data preprocessing, feature engineering, and model evaluation.

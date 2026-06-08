@@ -30,7 +30,8 @@ Graduation Year: **2025**
 
 ## 📂 Projects
 
-### 1. Telecom Customer Churn Prediction Using Machine Learning.ipynb
+### 1. Telecom Customer Churn Prediction Using Machine Learning
+https://github.com/SaiCharanLingalla/Telecom-Customer-Churn-Prediction-Using-ML/blob/e95d577ed025d0aec5bf6efe8f74cf17e8751ede/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.ipynb
 
 * Developed a machine learning model to predict customer churn.
 * Performed data preprocessing, feature engineering, and model evaluation.

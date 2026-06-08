@@ -67,16 +67,19 @@ To analyze the Titanic dataset and identify factors that influenced passenger su
 
 🛠️ Tools & Technologies
 Python,Pandas,NumPy,Matplotlib,Seaborn
+
 ⚙️ Process
 * Imported and explored the dataset.
 * Cleaned missing and inconsistent data.
 * Performed statistical analysis.
 * Created visualizations to understand patterns and relationships.
 * Analyzed survival rates across different passenger groups.
+
 📊 Insights
 * Female passengers had a higher survival rate than male passengers.
 * First-class passengers were more likely to survive.
 * Age and passenger class played important roles in survival outcomes.
+
 ✅ Result
 * Successfully completed exploratory data analysis.
 * Discovered key trends affecting passenger survival.

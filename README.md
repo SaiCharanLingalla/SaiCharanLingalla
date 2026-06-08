@@ -39,6 +39,7 @@ To predict whether a telecom customer is likely to leave the service, helping co
 
 🛠️ Tools & Technologies
 Python,Pandas,NumPy,Scikit-learn,Matplotlib,Jupyter Notebook
+
 ⚙️ Process
 * Collected and explored customer data.
 * Performed data cleaning and preprocessing.
@@ -46,10 +47,12 @@ Python,Pandas,NumPy,Scikit-learn,Matplotlib,Jupyter Notebook
 * Split the dataset into training and testing sets.
 * Built and evaluated classification models.
 * Compared model performance using evaluation metrics.
+
 📊 Insights
 * Customer tenure and contract type significantly influenced churn.
 * Customers with month-to-month contracts showed higher churn rates.
 * Certain service-related features strongly impacted customer retention.
+
 ✅ Result
 * Successfully developed a machine learning model for churn prediction.
 * Identified key factors contributing to customer attrition.

@@ -31,7 +31,6 @@ Graduation Year: **2025**
 ## 📂 Projects
 
 ### [Telecom Customer Churn Prediction Using Machine Learning](https://github.com/SaiCharanLingalla/Telecom-Customer-Churn-Prediction)
-https://github.com/SaiCharanLingalla/Telecom-Customer-Churn-Prediction-Using-ML/blob/e95d577ed025d0aec5bf6efe8f74cf17e8751ede/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.ipynb
 
 🎯 Objective
 
@@ -58,8 +57,7 @@ Python,Pandas,NumPy,Scikit-learn,Matplotlib,Jupyter Notebook
 * Identified key factors contributing to customer attrition.
 * Provided insights that can support customer retention decisions.
 
-### 2. Titanic Dataset EDA Analysis
-https://github.com/SaiCharanLingalla/Titanic-Dataset-EDA-Analysis/blob/e6753fd493b4c9d31c905dcb216ff90b4dd0ab82/Titanic%20Dataset%20EDA%20Analysis.ipynb
+### [Titanic Dataset EDA Analysis](https://github.com/SaiCharanLingalla/Titanic-Dataset-EDA-Analysis/blob/e6753fd493b4c9d31c905dcb216ff90b4dd0ab82/Titanic%20Dataset%20EDA%20Analysis.ipynb)
 
 🎯 Objective
 

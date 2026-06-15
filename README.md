@@ -83,6 +83,37 @@ Python,Pandas,NumPy,Matplotlib,Seaborn
 * Discovered key trends affecting passenger survival.
 * Generated visual insights that improved understanding of the dataset.
 
+### [Loan Approval Prediction Project]
+
+🎯 Objective
+To predict whether a loan application will be approved or rejected based on applicant details, helping financial institutions make faster and more accurate loan decisions.
+
+🛠️ Tools & Technologies
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+
+⚙️ Process
+* Collected and explored the loan dataset.
+* Performed data cleaning and preprocessing.
+* Encoded categorical variables and prepared the data.
+* Conducted Exploratory Data Analysis (EDA).
+* Split the dataset into training and testing sets.
+* Built and evaluated Logistic Regression, Decision Tree, and Random Forest models.
+* Compared model performance using accuracy and classification metrics.
+
+📊 Insights
+* CIBIL Score was the most important factor in loan approval.
+* Higher income and asset values increased approval chances.
+* Loan amount and loan term influenced approval decisions.
+* Random Forest captured complex patterns more effectively than other models.
+
+✅ Result
+* Successfully developed a Loan Approval Prediction System.
+* Compared multiple machine learning models.
+* Random Forest achieved the highest accuracy of **98.88%**.
+* Identified key factors affecting loan approval decisions.
+* Provided a reliable solution to support loan approval processes.
+
+
 ## 🎯 Career Objectives
 
 * Build expertise in Data Science and Machine Learning.

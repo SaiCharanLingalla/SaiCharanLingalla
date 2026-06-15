@@ -64,9 +64,11 @@ Python,Pandas,NumPy,Scikit-learn,Matplotlib,Jupyter Notebook
 To analyze the Titanic dataset and identify factors that influenced passenger survival.
 
 🛠️ Tools & Technologies
+
 Python,Pandas,NumPy,Matplotlib,Seaborn
 
 ⚙️ Process
+
 * Imported and explored the dataset.
 * Cleaned missing and inconsistent data.
 * Performed statistical analysis.

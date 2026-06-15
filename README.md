@@ -85,7 +85,7 @@ Python,Pandas,NumPy,Matplotlib,Seaborn
 * Discovered key trends affecting passenger survival.
 * Generated visual insights that improved understanding of the dataset.
 
-### [Loan Approval Prediction Project](https://github.com/SaiCharanLingalla/Loan-Approval_Project/blob/main/Loan%20Approvel.ipynb)
+### [Loan Approval Prediction Project](https://github.com/SaiCharanLingalla/Loan-Approval_Project/blob/main/Loan%20Approvel.ipynb](https://github.com/SaiCharanLingalla/Loan-Approval_Project/blob/1f445ae2b3044797aa501ac426c69dccdf63dc71/Loan%20Approvel.ipynb)
 
 🎯 Objective
 

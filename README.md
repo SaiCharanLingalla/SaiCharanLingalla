@@ -83,7 +83,7 @@ Python,Pandas,NumPy,Matplotlib,Seaborn
 * Discovered key trends affecting passenger survival.
 * Generated visual insights that improved understanding of the dataset.
 
-### [Loan Approval Prediction Project]
+### [Loan Approval Prediction Project](https://github.com/SaiCharanLingalla/Loan-Approval_Project/blob/main/Loan%20Approvel.ipynb)
 
 🎯 Objective
 To predict whether a loan application will be approved or rejected based on applicant details, helping financial institutions make faster and more accurate loan decisions.
